@@ -22,7 +22,7 @@ public class Position {
 		return column;
 	}
 
-	public void setColor(int color) {
+	public void setColumn(int column) {
 		this.column = column;
 	}
 	
